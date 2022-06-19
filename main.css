@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.profile-data {
+    color: red;
+    padding: 50;
+}
